@@ -1,0 +1,77 @@
+.image-portfolio {
+  width: 30%;
+  margin-top: 2%;
+}
+
+.image {
+  width: 30%;
+  margin-top: 2%;
+  margin-left: 2%;
+}
+
+.container{
+  margin: 3vh 10vw;
+}
+
+a {
+  display: block;
+  color: white;
+  font-size: 20px;
+}
+
+body {
+  background-color: #273746;
+  font-family: 'Noto Sans TC', sans-serif;
+}
+
+h1 {
+  color: white;
+}
+
+p {
+  color: white;
+  display: flex;
+}
+
+.img-style{
+  text-align: center;
+}
+
+.portfolio {
+  width: 30%;
+  margin-top: 2%;
+  animation-name: sliding-vertically;
+}
+
+.basse {
+  width: 20%;
+  margin-top: 2%;
+  margin-left: 2%;
+}
+
+.basse2 {
+  width: 12%;
+  margin-top: 2%;
+  margin-left: 2%;
+}
+
+.popo {
+  margin-top: 10%;
+}
+
+.photo {
+  width: 30%;
+  margin-top: 2%;
+}
+
+.cam {
+  width: 30%;
+  margin-top: 2%;
+  margin-left: 2%;
+}
+
+.toto{
+  text-align: center;
+  text-transform: uppercase;
+  font-weight: 700;
+}
